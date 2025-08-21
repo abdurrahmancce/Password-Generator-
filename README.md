@@ -1,5 +1,6 @@
-🔐 Password Generator
+# Password Generator
 
+🔐 Password Generator
 
 A sleek and customizable password generator built with HTML, CSS, and JavaScript. Easily create strong, secure passwords tailored to your preferences—perfect for protecting your online accounts.
 
