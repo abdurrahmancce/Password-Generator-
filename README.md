@@ -4,7 +4,7 @@
 
 A sleek and customizable password generator built with HTML, CSS, and JavaScript. Easily create strong, secure passwords tailored to your preferences—perfect for protecting your online accounts.
 
-🌐 Live Demo
+🌐 Live Demo(https://abdurrahmancce.github.io/Password-Generator-/)
 
 ⚙️ Features
 
@@ -44,7 +44,7 @@ Instant password generation with a single click
 
 📸 Screenshots
 
-<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/88a02fbd-20eb-4c9a-a648-aee8b4bbbfd1" />
+<img width="300" height=300" alt="image" src="https://github.com/user-attachments/assets/88a02fbd-20eb-4c9a-a648-aee8b4bbbfd1" />
 
 
 🙌 Contributing
