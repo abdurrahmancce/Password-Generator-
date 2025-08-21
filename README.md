@@ -44,8 +44,7 @@ Instant password generation with a single click
 
 📸 Screenshots
 
-<img width="300" height=300" alt="image" src="https://github.com/user-attachments/assets/88a02fbd-20eb-4c9a-a648-aee8b4bbbfd1" />
-
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7a1d26de-62fe-4a78-ab7a-6614edf82137" />
 
 🙌 Contributing
 
